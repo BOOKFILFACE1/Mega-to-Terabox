@@ -31,6 +31,22 @@ Esta herramienta utiliza la biblioteca de Python mega.py para interactuar con la
 
 /-Ejecuta el archivo transfer.py en tu terminal.
 
+
+🚨👀 Antes de empezar, necesitas asegurarte de que tienes instaladas las siguientes bibliotecas de Python:
+
+mega.py (API de Mega)
+requests (para realizar solicitudes HTTP)
+wget (para descargar archivos de Mega)
+progress (para mostrar el progreso de la descarga)
+
+Asegúrate de instalar estas bibliotecas antes de utilizar la herramienta para evitar cualquier error durante el proceso de transferencia.
+
+Para instalar estas bibliotecas, puedes utilizar el siguiente comando:
+
+-------pip install mega.py requests wget progress----------------
+
+No te olvides de verificar que todas las bibliotecas están correctamente instaladas antes de utilizar la herramienta. ¡No queremos que pierdas tus archivos valiosos! 🙅‍♀️🙅‍♂️
+
 -/¡Listo! La herramienta te guiará a través del proceso de transferencia.
 
 ¿Qué esperas? ¡Descarga la Mega-to-Terabox Transfer Tool ahora y transfiera tus archivos de manera eficiente y segura! 🚀🔒💾
